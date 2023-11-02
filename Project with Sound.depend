@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670549059 source:c:\users\hp14s\onedrive\documents\semester 3\struktur data (p)\c\final project\tugas akhir kelompok 3 kelas 2ks3\project kelompok 3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<conio.h>
+	<windows.h>
+	<MMsystem.h>
+

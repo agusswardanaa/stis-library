@@ -1,0 +1,4 @@
+1;222112096;I Bagus Putu Swardanasuta;1;1111
+2;222112207;Muhammad Asfar Aswin;2;1111
+3;222111853;Agnes Regita Berlianni;1;1111
+4;222112262;Nisa Fatharani Hasna;2;1111

@@ -1,0 +1,30 @@
+1;Laskar Pelangi;Andrea Hirata;Bentang Pustaka;2005;7
+2;Sang Pemimpi;Andrea Hirata;Bentang Pustaka;2006;8
+3;Edensor;Andrea Hirata;Bentang Pustaka;2007;5
+4;Maryamah Karpov;Andrea Hirata;Bentang Pustaka;2008;3
+5;Cinta di Dalam Gelas;Andrea Hirata;Bentang Pustaka;2010;5
+6;Padang Bulan;Andrea Hirata;Bentang Pustaka;2010;6
+7;Sirkus Pohon;Andrea Hirata;Bentang Pustaka;2017;10
+8;Orang-Orang Biasa;Andrea Hirata;Bentang Pustaka;2019;19
+9;Bumi;Tere Liye;Gramedia;2014;9
+10;Hujan;Tere Liye;Gramedia;2016;11
+11;Tentang Kamu;Tere Liye;Gramedia;2016;21
+12;Rembulan Tenggelam di Wajahmu;Tere Liye;Gramedia;2006;10
+13;Filosofi Teras;Henry Manampiring;Gagas Media;2018;25
+14;The Alpha Girl's Guide;Henry Manampiring;Gagas Media;2015;22
+15;Perahu Kertas;Dee Lestari;Bentang Pustaka;2003;18
+16;Aroma Karsa;Dee Lestari;Bentang Pustaka;2018;21
+17;Filosofi Kopi;Dee Lestari;Bentang Pustaka;2006;24
+18;The Psychology of Money;Morgan Housel;Baca;2020;5
+19;Cantik Itu Luka;Eka Kurniawan;Gramedia;2002;9
+20;Kita Pergi Hari Ini;Ziggy Z.;Gramedia;2021;6
+21;Laut Bercerita;Leila S. Chudori;KPG;2017;16
+22;The Midnight Library;Matt Haig;Gramedia;2020;13
+23;Lebih Senyap dari Bisikan;Andina Dwifatma;Gramedia;2021;15
+24;Statistika Matematika;Lee J. Bain;Duxbury;1999;0
+25;Pengantar Algoritma;Thomas;Gramedia;2001;9
+26;Kalkulus;Purcell;Gramedia;1999;5
+27;Pengantar Ekonomi;Lipsey;Bintang Maju;2001;2
+28;Laskar Pelangi;Andrea Hirata;Bentang Pustaka;2005;19
+29;Geographic IS;Longley;Wiley;2011;4
+
